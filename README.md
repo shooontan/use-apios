@@ -1,6 +1,6 @@
 # use-apios
 
-[![npm version](https://img.shields.io/npm/v/%40shooontan%2Fuse-apios.svg)](https://www.npmjs.com/package/%40shooontan%2Fuse-apios)
+[![npm version](https://img.shields.io/npm/v/use-apios.svg)](https://www.npmjs.com/package/use-apios)
 [![install size](https://packagephobia.now.sh/badge?p=use-apios)](https://packagephobia.now.sh/result?p=use-apios)
 [![Build Status](https://travis-ci.com/shooontan/use-apios.svg?branch=master)](https://travis-ci.com/shooontan/use-apios)
 
